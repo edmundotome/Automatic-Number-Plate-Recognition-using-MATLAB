@@ -1,4 +1,4 @@
-clear all
+
 close all
 %Im = imread('C:\Users\Edmundo\Documents\IPN\Primer Semestre\Programación MATLAB\cochesconplacas8.jpg');
 %Im = imread('C:\Users\Edmundo\Documents\IPN\Primer Semestre\Programación MATLAB\cochesconplacas9.jpg');
