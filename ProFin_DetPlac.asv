@@ -1,13 +1,13 @@
 
 close all
-%Im = imread('C:\Users\Edmundo\Documents\Github Projects\ANPR\cochesconplacas8.jpg');
-%Im = imread('C:\Users\Edmundo\Documents\Github Projects\ANPR\cochesconplacas9.jpg');
-%Im = imread('C:\Users\Edmundo\Documents\Github Projects\ANPR\cochesconplacas10.jpg');
-%Im = imread('C:\Users\Edmundo\Documents\Github Projects\ANPR\cochesconplacas11.jpg');
-%Im = imread('C:\Users\Edmundo\Documents\Github Projects\ANPR\cochesconplacas12.jpg');
-%Im = imread('C:\Users\Edmundo\Documents\Github Projects\ANPR\cochesconplacas13.jpg');
-Im = imread('C:\Users\Edmundo\Documents\Github Projects\ANPR\cochesconplacas14.jpg');
-%Im = imread('C:\Users\Edmundo\Documents\Github Projects\ANPR\cochesconplacas15.jpg');
+%Im = imread('C:\Users\Edmundo\Documents\IPN\Primer Semestre\Programación MATLAB\cochesconplacas8.jpg');
+%Im = imread('C:\Users\Edmundo\Documents\IPN\Primer Semestre\Programación MATLAB\cochesconplacas9.jpg');
+%Im = imread('C:\Users\Edmundo\Documents\IPN\Primer Semestre\Programación MATLAB\cochesconplacas10.jpg');
+%Im = imread('C:\Users\Edmundo\Documents\IPN\Primer Semestre\Programación MATLAB\cochesconplacas11.jpg');
+%Im = imread('C:\Users\Edmundo\Documents\IPN\Primer Semestre\Programación MATLAB\cochesconplacas12.jpg');
+%Im = imread('C:\Users\Edmundo\Documents\\cochesconplacas13.jpg');
+Im = imread('C:\Users\Edmundo\Documents\\cochesconplacas14.jpg');
+%Im = imread('C:\Users\Edmundo\Documents\\cochesconplacas15.jpg');
 
 figure;imshow(Im);
 title('imagen original');
